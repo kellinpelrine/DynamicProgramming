@@ -1,7 +1,7 @@
 # DynamicProgramming
 Dynamic programming, mostly solving macroeconomic models.
 
-Author: Kellin Pelrine. Tauchen from quantecon.org.
+Author: Kellin Pelrine. Tauchen.py from quantecon.org.
 <br/><br/>
 
 Adjustment_Costs: a firm optimizing investment. Comparison of 4 types of adjustment costs. (requires Tauchen.py)
